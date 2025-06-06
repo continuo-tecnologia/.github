@@ -1,6 +1,4 @@
-# Contínuo Tecnologia 🚀  
-
-### **Tecnologia que liberta, inovação que transforma**  
+## **Tecnologia que liberta, inovação que transforma**  
 
 Há três anos, começamos nossa jornada com um objetivo claro: garantir que a tecnologia seja um instrumento de emancipação, e não de dependência. Em um mercado onde muitas vezes as ferramentas tecnológicas servem aos interesses das grandes corporações, limitando a autonomia dos pequenos negócios, a Contínuo surgiu para mudar essa realidade.
 
