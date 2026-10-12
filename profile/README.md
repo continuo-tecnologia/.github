@@ -1,53 +1,55 @@
-## Tecnologia que liberta, inovação que transforma!  
+## Tecnologia que liberta, inovação que transforma!
 
-Há três anos, começamos nossa jornada com um objetivo claro: garantir que a tecnologia seja um instrumento de emancipação, e não de dependência. Em um mercado onde muitas vezes as ferramentas tecnológicas servem aos interesses das grandes corporações, limitando a autonomia dos pequenos negócios, a Contínuo surgiu para mudar essa realidade.
+Somos parceiros técnicos de empresas que dependem de tecnologia. Cuidamos da **sustentação, evolução e gestão** de sistemas com transparência, arquitetura modular e **sem dependência de fornecedor**.
 
-🎯 Nossa missão é simples, mas transformadora: oferecer às pequenas e médias empresas a independência necessária para que cresçam de forma autônoma, inovadora e sustentável, sem ficarem presas a soluções fechadas ou a sistemas que só atendem aos interesses dos grandes players. Queremos garantir que quem financia a produção e quem gera a riqueza compartilhem seus frutos de forma justa, criando um ambiente onde tanto os clientes quanto os trabalhadores evoluem juntos.
+Nascemos de uma inconformidade: num mercado em que as ferramentas costumam servir aos interesses de quem as vende — limitando a autonomia de quem as usa — escolhemos o caminho oposto. Construímos soluções **abertas, modulares e sustentáveis**, para que pequenas e médias empresas cresçam de forma autônoma e para que quem financia a produção e quem gera a riqueza compartilhem seus frutos de forma justa.
 
-👥 A Contínuo não se limita a criar software. Nosso compromisso é com a autonomia dos nossos clientes e com a evolução dos trabalhadores, promovendo um equilíbrio sustentável entre impacto para as empresas e para as pessoas que tornam a produção possível. Por isso, acreditamos em soluções abertas, modulares e sustentáveis, que permitem que nossos clientes tomem o controle da tecnologia de maneira transparente e flexível, sem se tornarem dependentes de fornecedores ou soluções fechadas.
+## O que fazemos
 
-✨ Nosso diferencial é a capacidade de adaptação constante às mudanças do mercado e das necessidades dos clientes. Somos críticos, mas também construtores de um novo futuro, onde pequenos negócios podem prosperar com liberdade, inovação e as ferramentas certas ao seu alcance. Na Contínuo, não vendemos apenas tecnologia — nós vendemos autonomia, confiança e a oportunidade de criar um futuro mais justo e sustentável.
+- **Sustentação** — mantemos sistemas críticos no ar, observáveis e sem surpresas.
+- **Evolução** — melhoramos o produto de forma contínua, com arquitetura modular e dívida técnica sob controle.
+- **Gestão de sistemas** — devolvemos a você o controle da sua tecnologia: portabilidade, transparência e liberdade para mudar de rumo sem se prender a soluções fechadas.
 
----
-
-## 🌱 Nossa Filosofia  
+## Nossa Filosofia
 
 A Contínuo se baseia em 10 pilares fundamentais:
 
-1️⃣ **Autonomia e Responsabilidade**: Liberdade para propor soluções com clareza nos objetivos e alinhamento com os clientes.
+| Pilar | Em uma frase |
+| --- | --- |
+| 1️⃣ **Autonomia e Responsabilidade** | Liberdade para propor soluções, com clareza nos objetivos e alinhamento com os clientes. |
+| 2️⃣ **Distribuição Justa de Esforço e Impacto** | Reconhecimento proporcional e equitativo das contribuições de cada pessoa. |
+| 3️⃣ **Tecnologia Aberta e Sustentável** | Soluções que evitam dependência de fornecedores e garantem portabilidade. |
+| 4️⃣ **Crescimento e Sustentabilidade** | Desenvolvimento contínuo dos colaboradores sem prejudicar a saúde da organização. |
+| 5️⃣ **Impacto Social e Colaborativo** | Contribuição para uma sociedade mais justa e colaborativa. |
+| 6️⃣ **Transparência e Aprendizado** | Comunicação aberta e melhoria constante a partir de desafios e experiências. |
+| 7️⃣ **Ordem e Caos** | Flexibilidade criativa combinada com estrutura organizada para fomentar inovação. |
+| 8️⃣ **Inovação Colaborativa** | Todos têm um papel ativo na criação de novas ideias e soluções. |
+| 9️⃣ **Responsabilidade Socioambiental** | Compromisso com práticas sustentáveis que minimizam o impacto ambiental. |
+| 🔟 **Equidade e Diversidade** | Ambiente inclusivo, onde todas as vozes são ouvidas e respeitadas. |
 
-2️⃣ **Distribuição Justa de Esforço e Impacto**: Reconhecimento proporcional e equitativo das contribuições de cada indivíduo.
+## Tecnologia
 
-3️⃣ **Tecnologia Aberta e Sustentável**: Soluções que evitam dependência de fornecedores e garantem portabilidade.
+Trabalhamos com stacks abertas e amplamente adotadas:
 
-4️⃣ **Equilíbrio entre Crescimento Profissional e Sustentabilidade Organizacional**: Desenvolvimento contínuo dos colaboradores sem prejudicar a saúde da organização.
+`Laravel` · `PHP` · `React` · `Node.js` · `Docker` · `Traefik` · `AWS` · `MySQL` · `Redis`
 
-5️⃣ **Impacto Social e Colaborativo**: Contribuição para uma sociedade mais justa e colaborativa.
+## Projetos
 
-6️⃣ **Cultura de Transparência e Aprendizado Contínuo**: Comunicação aberta e constante melhoria a partir de desafios e experiências.
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [contabil](https://github.com/continuo-tecnologia/contabil) | Contabilidade e finanças empresarial e pessoal. | Node.js + React |
+| [laravel-checkout](https://github.com/continuo-tecnologia/laravel-checkout) | Integração de checkout com Pagar.me v4. | Laravel (PHP) · MIT |
+| [backend-challenge](https://github.com/continuo-tecnologia/backend-challenge) | Desafio técnico de back-end. | PHP |
+| [frontend-challenge](https://github.com/continuo-tecnologia/frontend-challenge) | Desafio técnico de front-end. | JavaScript |
 
-7️⃣ **Equilíbrio entre Ordem e Caos**: Flexibilidade criativa combinada com estrutura organizada para fomentar inovação.
+Veja todos os repositórios em [github.com/orgs/continuo-tecnologia/repositories](https://github.com/orgs/continuo-tecnologia/repositories).
 
-8️⃣ **Inovação Colaborativa**: Todos têm um papel ativo na criação e desenvolvimento de novas ideias e soluções.
+## Quer colaborar?
 
-9️⃣ **Responsabilidade Social e Ambiental**: Compromisso com práticas sustentáveis que minimizam o impacto ambiental.
-
-🔟 **Equidade e Diversidade**: Promoção de um ambiente inclusivo, onde todas as vozes são ouvidas e respeitadas.
-
-📌 **Quer saber mais?** Nossa estrutura de trabalho e critérios de reconhecimento serão documentados em breve.  
+Se essa visão ressoa com você, o melhor primeiro passo é o código: resolva um dos nossos [desafios técnicos](https://github.com/continuo-tecnologia/backend-challenge) e se apresente. Estamos construindo um ambiente de trabalho justo, onde contribuição e crescimento andam juntos — e onde **seu esforço é valorizado**.
 
 ---
 
-## 🤝 Quer colaborar?
-
-Ainda estamos estruturando nosso processo para novos entrantes, mas se essa visão ressoa com você, fique de olho!  
-
-💡 **O que estamos construindo?**  
-- Ferramentas para pequenos negócios ganharem autonomia tecnológica.  
-- Um ambiente de trabalho justo, onde contribuição e crescimento andam juntos.  
-
-Junte-se a nós e ajude a construir **um futuro tecnológico mais justo, colaborativo e dinâmico**. 
-
-🚀 **Nosso compromisso:** Seu esforço será valorizado.   
+**Contínuo Tecnologia** · [www.continuo.dev.br](https://www.continuo.dev.br) · [LinkedIn](https://www.linkedin.com/company/continuo-tecnologia) · [contato@continuo.dev.br](mailto:contato@continuo.dev.br)
 
 ♾️ **Sistemas em movimento. Pessoas em evolução.**
